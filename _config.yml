@@ -1,0 +1,28 @@
+url: https://Moons-Project.github.io/MarkovChain.Website
+title: Markov Chain
+email: jskyzero@outlook.com
+author: jskyzero
+description: > # "Write an awesome description for your new site here. 
+  Moons-Project's Markov Chain
+copyright: 'Copyright &copy; 2018 Moons-Project. All Rights Reserved.'
+credits: 'Powered by <a href="https://jekyllrb.com/">Jskyll</a> <br>theme by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/jskyzero
+  - title: github
+    url: https://github.com/jskyzero
+  # - title: linkedin
+    # url: 
